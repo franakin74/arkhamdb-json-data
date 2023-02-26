@@ -43,30 +43,30 @@
     },
     {
         "code": "03278",
-        "flavor": "Dark storm clouds swirl overhead. A vortex of eldritch energy rages in the center of the storm. The ritual has begun. The gate may appear above the abbey, or below it. You must choose which route to pursue and reach the gate before Hastur’s agents do.",
-        "name": "The Ritual Begins",
-        "text": "[free] The investigators spend 1[per_investigator] clues, as a group: Place 1 doom on this agenda (this effect can cause this agenda to advance). Each investigator draws 1 card. (Group limit once per round.)",
-        "back_name": "Blue Star's Demise",
-        "back_flavor": "As the vortex grows in size and force, so too does its pull on reality. Debris and rubble start to float upwards, pulled into the terrible void. A thunderous crash shakes the island to its very core. Soon, the whole city will be destroyed by the maelstrom.",
-        "back_text": "Shuffle the encounter discard pile and both set-aside copies of Rift Seeker into the encounter deck.\nCheck the current \"a\" agenda.\n- If agenda 1a has 2 or fewer doom on it, mark one <b>Conviction</b> in your Campaign Log.\n- If agenda 1a has 3 or more doom on it, mark one <b>Doubt</b> in your Campaign Log.\n&- If agenda 1a is not the current \"a\" agenda, do not mark any <b>Conviction</b> or <b>Doubt</b>."
+        "flavor": "De sombres nuages orageux s'amoncellent au-dessus de vous. Un tourbillon d'énergie mystique fait rage au coeur de la tempête. Le rituel a commencé. Le portail va apparaître au-dessus de l'abbaye, ou en dessous. Vous devez choisir quelle voie emprunter et atteindre le portail avant les agents d'Hastur",
+        "name": "Le Rituel Commence",
+        "text": "[free]Les investigateurs dépenses collectivement 1[per_investigator] indice : placez 1 fatalité sur cette intrigue (cet effet peut faire avancer cette intrigue). Chaque investigateur pioche 1 carte. (Limite collective d'une fois par round.)",
+        "back_name": "La Disparition de l'Étoile Bleue",
+        "back_flavor": "Le tourbillon gagne en taille et en force, de même que son emprise sur la réalité. Des décombres et des gravats commencent à s'envoler, attirés dans le terrible vortex. Un craquement assourdissant secoue l'île jusque dans ses fondations. Bientôt, la ville entière sera détruite par ce Maelström.",
+        "back_text": "Mélangez la pile de défausse Rencontre et les deux exemplaires du Chercheur de Failles mis de côté dans le deck Rencontre.\n Vérifiez l'intrigue \"a\" en cours.\n- Si l'Intrigue 1a a 2 fatalités ou moins sur elle, inscrivez 1 <b>Certitude</b> dans votre Carnet de Campagne.\n- Si l'Intrigue 1a a 3 fatalités ou plus sur elle, inscrivez 1 <b>Doute</b> dans votre Carnet de Campagne.\n&- Si l'Intrigue 1a n'est pas l'intrigue \"a\" en cours, n'inscrivez ni <b>Doute</b>, ni <b>Certitude</b>."
     },
     {
         "code": "03279a",
-        "flavor": "The whirlwind over the island continues to rage. Blinding flashes of lightning and deafening thunder assault your senses. Is the vortex above the key to opening the path? If so, you have no choice but to beckon the entity closer…",
-        "name": "The Entity Above",
-        "text": "Each [[Monster]] enemy gets +1 fight.\n[free] The investigators spend 1[per_investigator] clues, as a group: Place 1 doom on this agenda (this effect can cause this agenda to advance). Each investigator draws 1 card. (Group limit once per round.)",
-        "back_name": "Worlds Intertwine",
-        "back_flavor": "Something is wrong. The vortex must have triggered the gate by now. You researched this ritual to the best of your abilities, but for some reason, it isn't working.\nDesperate, you examine your surroundings. Waves crash just over the outer walls of the village, flooding the streets. Figures robed in yellow search through the streets, their hooded lamps illuminating the floodwater. Suddenly, you realize your error - the vortex wasn't the key, it was the sea!",
-        "back_text": "Spawn the set-aside Beast of Aldebaran enemy in the Chapel of St. Aubert.\nCheck Campaign Log. If Ashleigh Clarke is not listed under \"VIPs Slain,\" search the collection for Ashleigh Clarke <i>(Songs Die Unheard)</i> and spawn her at Porte de l'Avancée.\nRemove the set-aside act 3c card from the game. Advance to agenda 3c.\n<i>Your objective lies within the other agenda deck.</i>"
+        "flavor": "Le tourbillon au-dessus de l'île continue de se déchaîner. Des éclairs aveuglants et un tonnerre assourdissant agressent vos sens. Ce tourbillon au-dessus est-il la clé pour ouvrir la voie? En ce cas, vous n'avez d'autre coix que d'attirer le phénomène plus près...",
+        "name": "Le Phénomène Au-Dessus",
+        "text": "Chaque ennemi [[Monstre]] gagne +1 combat.\n[free] Les investigateurs dépensesnt collectivement 1[per_investigator] indice: placez 1 fatalité sur cette intrigue (cet effet peut faire avancer cette intrigue). Chaque investigateur pioche 1 carte. (Limite collective d'une fois par round)",
+        "back_name": "Mondes Entremêlés",
+        "back_flavor": "Quelque chose cloche. Le vortex aurait dû ouvrir le portail, à présent. Vous avez accompli ce rituel du mieux que vous le pouviez, mais il semble ne pas fonctionner. \n\n Désespéré, vous baissez les yeux. Les vagues s'écrasent sur le rempart extérieur de la ville, inondant les rues. Des silhouettes vêtues de robes jaunes sillonnent les rues, éclairant les eaux du déluge, de leurs lanternes. Vous réalisez soudain votre erreur - la clé n'était pas le ciel, mais la mer?",
+        "back_text": "Générez la Bête d'Aldébaran dans la Chapelle Saint-Aubert.\nVérifiez votre Carnet de Campagne. Si Ashleigh Clarke n'est pas inscrite sous la mention \"Personnalités Tuées,\" cherchez Ashleigh Clarke <i>(Les Chansons Meurent Sans Bruit)</i> et générez-la à la Porte de l'Avancée.\nRetirez de la partie la carte Acte 3c mis de côté. Avancez à l'intrigue 3c. \n<i>Votre objectif se trouve dans l'autre deck Intrigue.</i>"
     },
     {
         "code": "03279b",
-        "flavor": "The whirlwind over the island continues to rage. Blinding flashes of lightning and deafening thunder assault your senses. Is the vortex above the key to opening the path? If so, you have no choice but to beckon the entity closer…",
-        "name": "The Entity Above",
-        "text": "Each [[Monster]] enemy gets +1 fight.\n[free] The investigators spend 1[per_investigator] clues, as a group: Place 1 doom on this agenda (this effect can cause this agenda to advance). Each investigator draws 1 card. (Group limit once per round.)",
-        "back_name": "The Path to Carcosa",
-        "back_flavor": "The ritual is almost complete. All that is left is to find the gate and step through.",
-        "back_text": "Remove the remainder of this agenda deck from the game and replace it with the set-aside act 3c card. Advance to that act card."
+        "flavor": "Le tourbillon au-dessus de l'île continue de se déchaîner. Des éclairs aveuglants et un tonnerre assourdissant agressent vos sens. Ce tourbillon au-dessus est-il la clé pour ouvrir la voie? En ce cas, vous n'avez d'autre choix que d'attirer le phénomène plus près...",
+        "name": "Le Phénomène Au-Dessus",
+        "text": "Chaque ennemi [[Monstre]] gagne +1 combat.\n[free]Les investigateurs dépenses collectivement 1[per_investigator] indice:placez 1 fatalité sur cette intrigue (cet effet peut faire avancer cette intrigue). Chaque investigateur pioche 1 carte. (Limite collective d'une fois par round.)",
+        "back_name": "La Route de Carcosa",
+        "back_flavor": "Le rituel est pratiquement terminé. Tout ce qu'il vous reste à faire est de trouver le portail et de le traverser.",
+        "back_text": "Retirez de la partie le reste de ce deck Intrigue et remplacer-le par la carte Acte 3c mise de côté. Avancez à cet acte."
     },
     {
         "code": "03280",
