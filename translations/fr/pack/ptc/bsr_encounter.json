@@ -7,12 +7,12 @@
     },
     {
         "code": "03275",
-        "flavor": "Your boat docks at Porte de l’Avancée, but with the rising tide and torrential rain flooding the street, the boat’s captain isn’t keen on sticking around. He tells you he will come back for you in the morning. You tell him not to bother; you probably won’t be around by then.",
-        "name": "The Tide Rises",
-        "text": "[free] The investigators spend 1[per_investigator] clues, as a group: Place 1 doom on this agenda (this effect can cause this agenda to advance). Each investigator gains 2 resources. (Group limit once per round.)",
-        "back_name": "Red Dawn's Sunrise",
-        "back_flavor": "The tide continues to rise rapidly, the outer walls of the village assaulted by hurricane-force winds and freezing rain. The storm only grows in intensity as the evening turns to night. Soon, the tidewater will completely flood the city.",
-        "back_text": "Shuffle the encounter discard pile and both set-aside copies of Tidal Terror into the encounter deck.\nCheck the current \"c\" agenda.\n- If agenda 1c has 2 or fewer doom on it, mark one <b>Conviction</b> in your Campaign Log.\n- If agenda 1c has 3 or more doom on it, mark one <b>Doubt</b> in your Campaign Log.\n- If agenda 1c is not the current \"c\" agenda, do not mark any <b>Conviction</b> or <b>Doubt</b>."
+        "flavor": "Votre bateau accoste à la Porte de l'Avancée mais entre la marée montante et la pluie torrentielle qui inonde les rues, le capitaine préfère ne pas rester dans le coin. Il vous prévient qu'il reviendra vous chercher le lendemain matin. Vous lui répondez de ne pas se déranger : vous ne serez probablement plus dans les parages à ce moment-là.",
+        "name": "La Marée Monte",
+        "text": "[free] Les investigateurs dépensent collectivement 1[per_investigator] indice : placez 1 fatalité sur cette intrigue (cet effet peut faire avancer cette intrigue). Chaque investigateur gagne 2 ressources. (Limite collective d'une fois par round.)",
+        "back_name": "L'Aurore Rouge",
+        "back_flavor": "La marée continue de monter rapidement, et le rempart extérieur de la ville est assailli par une pluie glaciale et des vents d'une violence inouïe. La tempête ne cesse de gagner en intensité à mesure que le crépuscule se change en nuit. Bientôt, la ville sera totalement inondée.",
+        "back_text": "Mélangez la poile de défausse Rencontre et les deux exemplaires de Terreur des Marées mis de côté dans le deck Rencontre.\nVérifiez l'intrigue \"c\" en cours.\n- Si l'Intrigue 1c a 2 fatalités ou moins sur elle, inscrivez 1 <b>Certitude</b> dans votre Carnet de Campagne\n- Si l'Intrigue 1c a 3 fatalités ou plus sur elle, inscrivez 1 <b>Doute</b> dans votre Carnet de Campagne.\n- Si l'Intrigue 1c n'est pas l'intrigue \"c\" en cours, n'inscrivez ni <b>Doute</b>, ni <b>Certitude</b>."
     },
     {
         "code": "03276a",
