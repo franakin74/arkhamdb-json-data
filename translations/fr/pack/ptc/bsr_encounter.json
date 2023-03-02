@@ -12,38 +12,38 @@
         "text": "[free] Les investigateurs dépensent collectivement 1[per_investigator] indice : placez 1 fatalité sur cette intrigue (cet effet peut faire avancer cette intrigue). Chaque investigateur gagne 2 ressources. (Limite collective d'une fois par round.)",
         "back_name": "L'Aurore Rouge",
         "back_flavor": "La marée continue de monter rapidement, et le rempart extérieur de la ville est assailli par une pluie glaciale et des vents d'une violence inouïe. La tempête ne cesse de gagner en intensité à mesure que le crépuscule se change en nuit. Bientôt, la ville sera totalement inondée.",
-        "back_text": "Mélangez la poile de défausse Rencontre et les deux exemplaires de Terreur des Marées mis de côté dans le deck Rencontre.\nVérifiez l'intrigue \"c\" en cours.\n- Si l'Intrigue 1c a 2 fatalités ou moins sur elle, inscrivez 1 <b>Certitude</b> dans votre Carnet de Campagne\n- Si l'Intrigue 1c a 3 fatalités ou plus sur elle, inscrivez 1 <b>Doute</b> dans votre Carnet de Campagne.\n- Si l'Intrigue 1c n'est pas l'intrigue \"c\" en cours, n'inscrivez ni <b>Doute</b>, ni <b>Certitude</b>."
+        "back_text": "Mélangez la pile de défausse Rencontre et les deux exemplaires de Terreur des Marées mis de côté dans le deck Rencontre.\nVérifiez l'intrigue \"c\" en cours.\n- Si l'Intrigue 1c a 2 fatalités ou moins sur elle, inscrivez 1 <b>Certitude</b> dans votre Carnet de Campagne\n- Si l'Intrigue 1c a 3 fatalités ou plus sur elle, inscrivez 1 <b>Doute</b> dans votre Carnet de Campagne.\n- Si l'Intrigue 1c n'est pas l'intrigue \"c\" en cours, n'inscrivez ni <b>Doute</b>, ni <b>Certitude</b>."
     },
     {
         "code": "03276a",
-        "flavor": "La mer déchaînée continue d'assaillir l'île. Les vagues s'écrasent contre les remparts et la pluie inonde les toits. La marée montante est-elle la clé pour ouvrir la voie? En ce cas, vous n'avez pas d'aure choix que de laisser gronder l'orage.",
+        "flavor": "La mer déchaînée continue d'assaillir l'île. Les vagues s'écrasent contre les remparts et la pluie inonde les toits. La marée montante est-elle la clé pour ouvrir la voie ? En ce cas, vous n'avez pas d'autre choix que de laisser gronder l'orage.",
         "name": "Que Gronde L'Orage",
-        "text": "Chaque exemplaire d'Antiques Fléaux gagne Renfort.\n[free]Les investigateurs dépensent collectivement 1[per_investigator] indice: placez 1 fatalité sur cette intrigue (cet effet peut faire avancer cette intrigue). Chaque investigateur gagne 2 resources. (Limite collective d'une fois par round.)",
-        "back_name": "Monde Entremêlés",
-        "back_flavor": "Quelque chose cloche. Le déluge aurait dû ouvrir le portail, à présent. Vous avez accompli ce rituel du mieux que vous le pouviez, mais il semble ne pas fonctionner\nVous levez les yeux au ciel à la recherche d'un signe. Les éclairs tourbillonnent en un vortex de nuages noirs. Des silhouettes vêtues de robes jaune sillonnent le ciel sur le dos de monstrueuses créatures ailées. Vous réalisez soudain votre erreur - la clé Nétait pas la mer, mais le ciel!",
-        "back_text": "Générez la Bête d'Aldébaran dans la Tour de l'Abbaye.\nVérifiez votre Carnet de Campagne. Si Ashleigh Clarke n'est pas inscrite sous la mention \"VIPs Slain,\" cherchez Ashleigh Clarke <i>(Les Chansons Meurent Sans Bruit)</i> et générez-la à la Porte de l'Avancée.\nRetirez de la partie la carte Acte 3a mise de côté. Avancez à l'Intrique 3a.\n<i>Votre objectif se trouve dans l'autre deck Intrigue</i>"
+        "text": "Chaque exemplaire d'Antiques Fléaux gagne Renfort.\n[free]Les investigateurs dépensent collectivement 1[per_investigator] indice : placez 1 fatalité sur cette intrigue (cet effet peut faire avancer cette intrigue). Chaque investigateur gagne 2 ressources. (Limite collective d'une fois par round.)",
+        "back_name": "Mondes Entremêlés",
+        "back_flavor": "Quelque chose cloche. Le déluge aurait dû ouvrir le portail, à présent. Vous avez accompli ce rituel du mieux que vous le pouviez, mais il semble ne pas fonctionner\nVous levez les yeux au ciel à la recherche d'un signe. Les éclairs tourbillonnent en un vortex de nuages noirs. Des silhouettes vêtues de robes jaunes sillonnent le ciel sur le dos de monstrueuses créatures ailées. Vous réalisez soudain votre erreur - la clé n'était pas la mer, mais le ciel !",
+        "back_text": "Générez la Bête d'Aldébaran dans la Tour de l'Abbaye.\nVérifiez votre Carnet de Campagne. Si Ashleigh Clarke n'est pas inscrite sous la mention « Personnalités Tuées », cherchez Ashleigh Clarke <i>(Les Chansons Meurent Sans Bruit)</i> et générez-la à la Porte de l'Avancée.\nRetirez de la partie la carte Acte 3a mise de côté. Avancez à l'Intrigue 3a.\n<i>Votre objectif se trouve dans l'autre deck Intrigue</i>"
     },
     {
         "code": "03276b",
-        "flavor": "La mer déchaînée continue d'assaillir l'île. Les vagues s'écrasent contre les remparts et la pluie inonde les toits. La marée montante est-elle la clé pour ouvrir la voie? En ce cas, vous n'avez pas d'aure choix que de laisser gronder l'orage.",
+        "flavor": "La mer déchaînée continue d'assaillir l'île. Les vagues s'écrasent contre les remparts et la pluie inonde les toits. La marée montante est-elle la clé pour ouvrir la voie ? En ce cas, vous n'avez pas d'autre choix que de laisser gronder l'orage.",
         "name": "Que Gronde L'Orage",
-        "text": "Chaque exemplaire d'Antiques Fléaux gagne Renfort.\n[free]Les investigateurs dépensent collectivement 1[per_investigator] indice: placez 1 fatalité sur cette intrigue (cet effet peut faire avancer cette intrigue). Chaque investigateur gagne 2 resources. (Limite collective d'une fois par round.)",
+        "text": "Chaque exemplaire d'Antiques Fléaux gagne Renfort.\n[free]Les investigateurs dépensent collectivement 1[per_investigator] indice : placez 1 fatalité sur cette intrigue (cet effet peut faire avancer cette intrigue). Chaque investigateur gagne 2 ressources. (Limite collective d'une fois par round.)",
         "back_name": "Le Route de Carcosa",
         "back_flavor": "Le rituel est pratiquement terminé. Tout ce qu'il vous reste à faire est de trouver le portail et de le traverser.",
         "back_text": "Retirez de la partie le reste de ce deck Intrigue et remplacez-le par la carte Acte 3 mise de côté. Avancez à cet acte."
     },
     {
         "code": "03277",
-        "flavor": "Le niveau de l'eau ne cesse de monter. Le rempart extérieur ne peut empêcher la mer d'envahir l'île. Les rues sont inondées d'eau glaciale. Les vagues balayent les bâtiments sur leur chemin. Si vous n'agissez pas très vite, la route sera scelée à jamais et personne ne pourra empêcher les agents d'Hastur de libérer le Roi de ses liens.",
+        "flavor": "Le niveau de l'eau ne cesse de monter. Le rempart extérieur ne peut empêcher la mer d'envahir l'île. Les rues sont inondées d'eau glaciale. Les vagues balayent les bâtiments sur leur chemin. Si vous n'agissez pas très vite, la route sera scellée à jamais et personne ne pourra empêcher les agents d'Hastur de libérer le Roi de ses liens.",
         "name": "La Ville Inondée",
         "text": "Chaque exemplaire d'Antiques Fléaux gagne Renfort.",
         "back_name": "Mourir Sans Bruit",
-        "back_flavor": "La mer engloutit le Mont Saint-Michel tout entier. L'eau déborde les remparts et détruit la ville basse. L'abbaye est le dernier refuge restant, mais elle aussi sera bientôt inondée. Le tourbillon au-dessus - votre dernier espoir d'échapper à ce funeste sort - disparaît soudain dans des volutes de nuages gris.\nVous vous asseyez sur un bloc de pioerre humide devant l'abbaye et contemplez la folie tout autour de vous. Comment en est-on arrivé là? Tout ceci est-il réellement en train d'arriver? Ou allez-vous vous réveiller à l'asile comme Daniel Chesterfield, victime d'une cruelle farce cosmique?",
+        "back_flavor": "La mer engloutit le Mont Saint-Michel tout entier. L'eau déborde les remparts et détruit la ville basse. L'abbaye est le dernier refuge restant, mais elle aussi sera bientôt inondée. Le tourbillon au-dessus - votre dernier espoir d'échapper à ce funeste sort - disparaît soudain dans des volutes de nuages gris.\nVous vous asseyez sur un bloc de pierre humide devant l'abbaye et contemplez la folie tout autour de vous. Comment en est-on arrivé là ? Tout ceci est-il réellement en train d'arriver ? Ou allez-vous vous réveiller à l'asile comme Daniel Chesterfield, victime d'une cruelle farce cosmique ?",
         "back_text": "<b>(→C3)</b>"
     },
   {
         "code": "03278",
-        "flavor": "De sombres nuages orageux s'amoncellent au-dessus de vous. Un tourbillon d'énergie mystique fait rage au coeur de la tempête. Le rituel a commencé. Le portail va apparaître au-dessus de l'abbaye, ou en dessous. Vous devez choisir quelle voie emprunter et atteindre le portail avant les agents d'Hastur",
+        "flavor": "De sombres nuages orageux s'amoncellent au-dessus de vous. Un tourbillon d'énergie mystique fait rage au cœur de la tempête. Le rituel a commencé. Le portail va apparaître au-dessus de l'abbaye, ou en dessous. Vous devez choisir quelle voie emprunter et atteindre le portail avant les agents d'Hastur.",
         "name": "Le Rituel Commence",
         "text": "[free]Les investigateurs dépensent collectivement 1[per_investigator] indice : placez 1 fatalité sur cette intrigue (cet effet peut faire avancer cette intrigue). Chaque investigateur pioche 1 carte. (Limite collective d'une fois par round.)",
         "back_name": "La Disparition de l'Étoile Bleue",
@@ -52,29 +52,29 @@
     },
     {
         "code": "03279a",
-        "flavor": "Le tourbillon au-dessus de l'île continue de se déchaîner. Des éclairs aveuglants et un tonnerre assourdissant agressent vos sens. Ce tourbillon au-dessus est-il la clé pour ouvrir la voie? En ce cas, vous n'avez d'autre choix que d'attirer le phénomène plus près...",
+        "flavor": "Le tourbillon au-dessus de l'île continue de se déchaîner. Des éclairs aveuglants et un tonnerre assourdissant agressent vos sens. Ce tourbillon au-dessus est-il la clé pour ouvrir la voie ? En ce cas, vous n'avez d'autre choix que d'attirer le phénomène plus près...",
         "name": "Le Phénomène Au-Dessus",
-        "text": "Chaque ennemi [[Monstre]] gagne +1 combat.\n[free] Les investigateurs dépensent collectivement 1[per_investigator] indice: placez 1 fatalité sur cette intrigue (cet effet peut faire avancer cette intrigue). Chaque investigateur pioche 1 carte. (Limite collective d'une fois par round)",
+        "text": "Chaque ennemi [[Monstre]] gagne +1 combat.\n[free] Les investigateurs dépensent collectivement 1[per_investigator] indice : placez 1 fatalité sur cette intrigue (cet effet peut faire avancer cette intrigue). Chaque investigateur pioche 1 carte. (Limite collective d'une fois par round)",
         "back_name": "Mondes Entremêlés",
-        "back_flavor": "Quelque chose cloche. Le vortex aurait dû ouvrir le portail, à présent. Vous avez accompli ce rituel du mieux que vous le pouviez, mais il semble ne pas fonctionner. \n\n Désespéré, vous baissez les yeux. Les vagues s'écrasent sur le rempart extérieur de la ville, inondant les rues. Des silhouettes vêtues de robes jaunes sillonnent les rues, éclairant les eaux du déluge de leurs lanternes. Vous réalisez soudain votre erreur - la clé n'était pas le ciel, mais la mer!",
-        "back_text": "Générez la Bête d'Aldébaran dans la Chapelle Saint-Aubert.\nVérifiez votre Carnet de Campagne. Si Ashleigh Clarke n'est pas inscrite sous la mention "Personnalités Tuées" cherchez Ashleigh Clarke <i>(Les Chansons Meurent Sans Bruit)</i> et générez-la à la Porte de l'Avancée.\nRetirez de la partie la carte Acte 3c mis de côté. Avancez à l'Intrigue 3c. \n<i>Votre objectif se trouve dans l'autre deck Intrigue.</i>"
+        "back_flavor": "Quelque chose cloche. Le vortex aurait dû ouvrir le portail, à présent. Vous avez accompli ce rituel du mieux que vous le pouviez, mais il semble ne pas fonctionner. \n\n Désespéré, vous baissez les yeux. Les vagues s'écrasent sur le rempart extérieur de la ville, inondant les rues. Des silhouettes vêtues de robes jaunes sillonnent les rues, éclairant les eaux du déluge de leurs lanternes. Vous réalisez soudain votre erreur - la clé n'était pas le ciel, mais la mer !",
+        "back_text": "Générez la Bête d'Aldébaran dans la Chapelle Saint-Aubert.\nVérifiez votre Carnet de Campagne. Si Ashleigh Clarke n'est pas inscrite sous la mention « Personnalités Tuées », cherchez Ashleigh Clarke <i>(Les Chansons Meurent Sans Bruit)</i> et générez-la à la Porte de l'Avancée.\nRetirez de la partie la carte Acte 3c mis de côté. Avancez à l'Intrigue 3c. \n<i>Votre objectif se trouve dans l'autre deck Intrigue.</i>"
     },
     {
         "code": "03279b",
-        "flavor": "Le tourbillon au-dessus de l'île continue de se déchaîner. Des éclairs aveuglants et un tonnerre assourdissant agressent vos sens. Ce tourbillon au-dessus est-il la clé pour ouvrir la voie? En ce cas, vous n'avez d'autre choix que d'attirer le phénomène plus près...",
+        "flavor": "Le tourbillon au-dessus de l'île continue de se déchaîner. Des éclairs aveuglants et un tonnerre assourdissant agressent vos sens. Ce tourbillon au-dessus est-il la clé pour ouvrir la voie ? En ce cas, vous n'avez d'autre choix que d'attirer le phénomène plus près...",
         "name": "Le Phénomène Au-Dessus",
-        "text": "Chaque ennemi [[Monstre]] gagne +1 combat.\n[free]Les investigateurs dépensent collectivement 1[per_investigator] indice:placez 1 fatalité sur cette intrigue (cet effet peut faire avancer cette intrigue). Chaque investigateur pioche 1 carte. (Limite collective d'une fois par round.)",
+        "text": "Chaque ennemi [[Monstre]] gagne +1 combat.\n[free]Les investigateurs dépensent collectivement 1[per_investigator] indice : placez 1 fatalité sur cette intrigue (cet effet peut faire avancer cette intrigue). Chaque investigateur pioche 1 carte. (Limite collective d'une fois par round.)",
         "back_name": "La Route de Carcosa",
         "back_flavor": "Le rituel est pratiquement terminé. Tout ce qu'il vous reste à faire est de trouver le portail et de le traverser.",
         "back_text": "Retirez de la partie le reste de ce deck Intrigue et remplacez-le par la carte Acte 3c mise de côté. Avancez à cet acte."
     },
   {
         "code": "03280",
-        "flavor": "Le maelström recouvre tout l'horizon. L'île commence à se briser en morceaux. Les crissements de créatures envahissent l'air tel un choeur impie priant une force au-delà de votre compréhension. Si vous n'agissez pas très vite, la route sera scellée à jamais et personne ne pourra empêcher les agents d'Hastur de libérer le Roi de ses liens.",
+        "flavor": "Le maelström recouvre tout l'horizon. L'île commence à se briser en morceaux. Les crissements de créatures envahissent l'air tel un chœur impie priant une force au-delà de votre compréhension. Si vous n'agissez pas très vite, la route sera scellée à jamais et personne ne pourra empêcher les agents d'Hastur de libérer le Roi de ses liens.",
         "name": "Les Cieux Engloutis",
         "text": "Chaque ennemi [[Monstre]] gagne +1 combat.",
         "back_name": "Mourir Sans Bruit",
-        "back_flavor": "Le vortex détruit l'abbaye du Mont Saint-Michel, la brisant en des milliers d'éclats de réalité. L'île ne semble plus soumise à la gravité et des débris commencent à flotter dans les airs. Les rues en bas de l'île sont le dernier refuge face à la fureur des cieux, mais elles aussi seront bientôt consumées. Les flots - votre dernier espoir d'échapper à ce funeste destin - refluent soudainement et s'engouffrent sous la terre.\nVous vous asseyez au pied de la tour nord, sous l'abbaye, et contemplez la folie tout autour de vous. Comment en est-on arrivé là? Tout ceci est-il réellement en train d'arriver? Ou allez-vous vous réveiller à l'asile comme Daniel Chesterfield, victime d'une cruelle force cosmique?",
+        "back_flavor": "Le vortex détruit l'abbaye du Mont Saint-Michel, la brisant en des milliers d'éclats de réalité. L'île ne semble plus soumise à la gravité et des débris commencent à flotter dans les airs. Les rues en bas de l'île sont le dernier refuge face à la fureur des cieux, mais elles aussi seront bientôt consumées. Les flots - votre dernier espoir d'échapper à ce funeste destin - refluent soudainement et s'engouffrent sous la terre.\nVous vous asseyez au pied de la tour nord, sous l'abbaye, et contemplez la folie tout autour de vous. Comment en est-on arrivé là ? Tout ceci est-il réellement en train d'arriver ? Ou allez-vous vous réveiller à l'asile comme Daniel Chesterfield, victime d'une cruelle farce cosmique ?",
         "back_text": "<b>(→C3)</b>"
     },
     {
