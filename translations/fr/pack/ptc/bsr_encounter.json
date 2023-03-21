@@ -130,114 +130,114 @@
     },
     {
         "code": "03288",
-        "flavor": "Wet, stone steps lead higher up the path, toward the abbey. Above, black storm clouds threaten to overtake the island.",
-        "name": "North Tower",
-        "text": "While the current \"a\" agenda has more doom on it than the current \"c\" agenda, reduce the difficulty of each skill test at North Tower by 1.",
-        "back_flavor": "The north tower along the outer wall overlooks the town on one side and the tumultuous waters on the other. Freezing rain has made this path slippery and dangerous to follow."
+        "flavor": "Des marches de pierre mouillées montent vers l'abbaye au-dessus de laquelle des nuages d'orage noirs menacent de s'abattre sur l'île.",
+        "name": "Tour Nord",
+        "text": "Tant que l'intrigue « a » en cours a plus de fatalités sur elle que l'intrigue « c » en cours, diminuez de 1 la difficulté de chaque test de compétence dans la Tour Nord.",
+        "back_flavor": "La tour au nord du rempart surplombe la ville d'un côté et les eaux tumultueuses de l'autre. L'eau glaciale a rendu le chemin pour y accéder glissant et dangereux."
     },
     {
         "code": "03289",
-        "name": "Broken Steps",
-        "text": "<b>Forced</b> - After you enter Broken Steps: You must either lose 1 action or draw the topmost [[Omen]] treachery in the encounter discard pile.",
-        "back_flavor": "Bolts of lightning silhouette the abbey above. A path of long, winding steps leads up the hill, branching into multiple routes as you draw nearer to the abbey."
+        "name": "Marches Brisées",
+        "text": "<b>Forcé</b> - Après être entré dans les Marches Brisées : soit vous perdez 1 action, soit vous piochez la traîtrise [[Présage]] la plus proche du dessus de la pile de défausse Rencontre",
+        "back_flavor": "Les éclairs illuminent la silhouette de l'abbaye au-dessus. Une longue série de marches serpente jusqu'à la colline, se scindant en de multiples embranchements à mesure que vous approchez de l'abbaye."
     },
     {
         "code": "03290",
-        "name": "Broken Steps",
-        "text": "<b>Forced</b> - After you enter Broken Steps: You must either discard an asset you control or draw the topmost [[Cultist]] enemy in the encounter discard pile.",
-        "back_flavor": "Bolts of lightning silhouette the abbey above. A path of long, winding steps leads up the hill, branching into multiple routes as you draw nearer to the abbey."
+        "name": "Marches Brisées",
+        "text": "<b>Forcé</b> - Après être entré dans les Marches Brisées : soit vous défaussez un soutien que vous contrôlez, soit vous piochez l'ennemi [[Cultiste]] le plus proche du dessus de la pile de défausse Rencontre.",
+        "back_flavor": "Les éclairs illuminent la silhouette de l'abbaye au-dessus. Une longue série de marches serpente jusqu'à la colline, se scindant en de multiples embranchements à mesure que vous approchez de l'abbaye."
     },
     {
         "code": "03291",
-        "name": "Abbey Church",
-        "text": "If there are two agendas in play with different agenda numbers, Abbey Church gets +2 shroud.\n<b>Forced</b> - When Abbey Church is revealed: Put the set-aside Chœur Gothique, Knight's Hall, Cloister, Chapel of St. Aubert, and Abbey Tower locations into play.",
-        "back_flavor": "You’ll have to find a path not blocked by debris and rubble in order to reach the abbey.",
-        "back_text": "The path leading to the Abbey Church is blocked. As an additional cost for you to enter the Abbey Church, investigators at Broken Steps must spend 3[per_investigator] clues, as a group."
+        "name": "Église Abbatiale",
+        "text": "S'il y a deux intrigues en jeu avec des numéros d'intrigue différents, l'Église Abbatiale gagne +2 de valeur occulte.\n<b>Forcé</b> - Quand l'Église Abbatiale est révélée : mettez en jeu les lieux Chœur Gothique, Salle des Chevaliers, Cloître, Chapelle Saint-Aubert et Tour de l'Abbaye.",
+        "back_flavor": "Pour atteindre l'abbaye, vous allez devoir trouver un chemin qui ne soit pas bloqué par des débris ou des décombres.",
+        "back_text": "Le chemin menant à l'Église Abbatiale est bloqué. En tant que coût supplémentaire pour que vous puissiez entrer dans l'Église Abbatiale, les investigateurs dans les Marches Brisées doivent dépenserr collectivement 3[per_investigator] indices."
     },
     {
         "code": "03292",
-        "flavor": "Lightning flashes through the windows of the abbey, thunder quickly answering in a booming voice all around the island.",
+        "flavor": "Des éclairs zèbrent le ciel à travers les fenêtres de l'abbaye. Le tonnerre leur répond d'une voix qui retentit tout autour de l'île.",
         "name": "Chœur Gothique",
-        "text": "[action] Place 1 doom on the current \"a\" agenda: Heal 2 damage. (Group limit once per game).",
-        "back_flavor": "A long pool of blood spreads slowly across the floor, leading toward the chœur gothique."
+        "text": "[action] Placez 1 fatalité sur l'intrigue « a » en cours : soignez 2 dégâts. (Limite collective d'une fois par partie).",
+        "back_flavor": "Une immense mare de sang s'étire lentement sur le sol en direction du chœur gothique."
     },
     {
         "code": "03293",
-        "flavor": "Lightning flashes through the windows of the abbey, thunder quickly answering in a booming voice all around the island.",
+        "flavor": "Des éclairs zèbrent le ciel à travers les fenêtres de l'abbaye. Le tonnerre leur répond d'une voix qui retentit tout autour de l'île.",
         "name": "Chœur Gothique",
-        "text": "[action] Place 1 doom on the current \"c\" agenda: Heal 2 horror. (Group limit once per game).",
-        "back_flavor": "A long pool of blood spreads slowly across the floor, leading toward the chœur gothique."
+        "text": "[action] Placez 1 fatalité sur l'intrigue « c » en cours : soignez 2 horreurs. (Limite collective d'une fois par partie).",
+        "back_flavor": "Une immense mare de sang s'étire lentement sur le sol en direction du chœur gothique."
     },
     {
         "code": "03294",
-        "flavor": "A lone monk patrols the covered walk, surrounding himself in whispered prayer. He doesn't seem to notice the storm threatening to tear the abbey down.",
-        "name": "Cloister",
-        "text": "[action] If there are no clues on Cloister: <b>Parley.</b> Test [willpower] (3). If you succeed, remember that you have \"found a guide.\"",
-        "back_flavor": "The open arcade of the cloister is normally restricted to the monastery’s monks and religious leaders, but with the abbey seemingly abandoned, it takes little effort for you to sneak your way in."
+        "flavor": "Un moine isolé patrouille dans le passage couvert. Absorbé par ses prières, il semble ne pas remarquer la tempête qui menace de dévaster l'abbaye.",
+        "name": "Cloître",
+        "text": "[action] S'il n'y a aucun indice sur le Cloître : <b>Discussion.</b> Effectuez un test de [willpower] (3). En cas de réussite, souvenez-vous que vous avez « trouvé un guide ».",
+        "back_flavor": "L'accès au cloître est normalement réservé aux moines et aux dignitaires religieux mais, l'abbaye ayant été désertée, vous parvenez à y accéder sans trop d'efforts.."
     },
     {
         "code": "03295",
-        "name": "Knight's Hall",
-        "text": "[action] If there are no clues on Knight's Hall: <b>Investigate.</b> Investigate using [agility] instead of [intellect]. If you succeed, instead of discovering clues, remember that you have \"found the tower key.\"",
-        "back_flavor": "Rows of symmetrical stone pillars give this hall a sense of calm serenity that clashes with the torrent outside."
+        "name": "Salle des Chevaliers",
+        "text": "[action] S'il n'y a aucun indice sur la Salle des Chevaliers : <b>Enquêter.</b> Enquêtez en utilisant [agility] au lieu de [intellect]. En cas de réussite, au lieu de découvrir des indices, souvenez-vous que vous avez « trouvé la clé de la tour ».",
+        "back_flavor": "Ses rangées de piliers symétriques donnent à cette pièce une aura de calme et de sérénité qui jure avec les éléments déchaînées à l'extérieur."
     },
     {
         "code": "03296",
-        "flavor": "In the water below, you can see the spires of Carcosa. You are almost there - you need only open the gate.",
-        "name": "Chapel of St. Aubert",
-        "subname": "The Path is Open",
-        "text": "You can only discover clues in the Chapel of St. Aubert if you have 3 or fewer remaining sanity.\n[action]: Take up to 3 horror.",
-        "back_flavor": "Waves crash violently upon the rocks. The chapel stands lonely against the rain, barely able to survive the storm’s onslaught.",
-        "back_text": "The way to the Chapel of St. Aubert is hidden. You cannot enter the Chapel of St. Aubert unless you have \"found a guide.\""
+        "flavor": "Vous pouvez apercevoir les pinacles de Carcosa dans l'eau en dessous. Vous y êtes presque - vous n'avez plus qu'à ouvrir le portail",
+        "name": "Chapelle Saint-Aubert",
+        "subname": "La Route est Ouverte",
+        "text": "Vous ne pouvez découvrir des indices dans la Chapelle Saint-Aubert que si votre santé mentale restante est de 3 ou moins.\n[action]: subissez jusqu'à 3 horreurs.",
+        "back_flavor": "Les vagues s'écrasent violemment contre les rochers. La pluie tombe sur la chapelle isolée, qui semble à peine capable de survivre aux assauts de la tempête.",
+        "back_text": "L'accès à la Chapelle Saint-Aubert est caché. Vous ne pouvez pas entrer dans la Chapelle Saint-Aubert à moins que vous n'ayez « trouvé un guide »."
     },
     {
         "code": "03297",
-        "flavor": "As you peer into the water below, you can see the hooded shape of Hastur looming beyond, hand outstretched. His laughter echoes throughout your mind.",
-        "name": "Chapel of St. Aubert",
-        "subname": "Waters Forbidden",
-        "back_flavor": "Waves crash violently upon the rocks. The chapel stands lonely against the rain, barely able to survive the storm’s onslaught.",
-        "back_text": "The way to the Chapel of St. Aubert is hidden. You cannot enter the Chapel of St. Aubert unless you have \"found a guide.\""
+        "flavor": "En scrutant les eaux en dessous, vous pouvez apercevoir la menaçante silhouette encapuchonnée d'Hastur, main tendue. Son rire retentit à travers votre esprit.",
+        "name": "Chapelle Saint-Aubert",
+        "subname": "Eaux Interdites",
+        "back_flavor": "Les vagues s'écrasent violemment contre les rochers. La pluie tombe sur la chapelle isolée, qui semble à peine capable de survivre aux assauts de la tempête.",
+        "back_text": "L'accès à la Chapelle Saint-Aubert est caché. Vous ne pouvez pas entrer dans la Chapelle Saint-Aubert à moins que vous n'ayez « trouvé un guide »."
     },
     {
         "code": "03298",
-        "flavor": "In the vortex above, you can see the spires of Carcosa. You are almost there - you need only open the gate.",
-        "name": "Abbey Tower",
-        "subname": "The Path is Open",
-        "text": "You can only discover clues in the Abbey Tower if you have no cards in your hand.\n[action]: Discard up to 3 cards from your hand.",
-        "back_flavor": "Dark lightning crashes throughout the air. Surrounding the top of the tower is a whirlwind of black clouds and bellowing wind.",
-        "back_text": "The door leading up to the Abbey Tower is locked. You cannot enter the Abbey Tower unless you have \"found the tower key.\""
+        "flavor": "Vous pouvez apercevoir les pinacles de Carcosa dans le tourbillon au-dessus. Vous y êtes presque - vous n'avez plus qu'à ouvrir le portail",
+        "name": "Tour de l'Abbaye",
+        "subname": "La Route est Ouverte",
+        "text": "Vous ne pouvez découvrir des indices dans la Tour de l'Abbaye que si vous n'avez aucune carte dans votre main.\n[action]: défaussez jusqu'à 3 cartes de votre main.",
+        "back_flavor": "Des éclaires noirs zèbrent le ciel. Un tourbillon de nuages noirs et de rafales mugissantes encercle le sommet de la tour.",
+        "back_text": "La porte menant à la Tour de l'Abbaye est verrouillée. Vous ne pouvez pas entrer dans la Tour de l'Abbaye à moins que vous n'ayez « trouvé la clé de la tour »."
     },
     {
         "code": "03299",
-        "flavor": "As you peer into the vortex above, you can see the hooded shape of Hastur looming beyond, hand outstretched. His laughter echoes throughout your mind.",
-        "name": "Abbey Tower",
-        "subname": "Spires Forbidden",
-        "back_flavor": "Dark lightning crashes throughout the air. Surrounding the top of the tower is a whirlwind of black clouds and bellowing wind.",
-        "back_text": "The door leading up to the Abbey Tower is locked. You cannot enter the Abbey Tower unless you have \"found the tower key.\""
+        "flavor": "En scrutant le tourbillon au-dessus, vous pouvez apercevoir la menaçante silhouette encapuchonnée d'Hastur, main tendue. Son rire retentit à travers votre esprit.",
+        "name": "Tour de l'Abbaye",
+        "subname": "Sommets Interdits",
+        "back_flavor": "Des éclaires noirs zèbrent le ciel. Un tourbillon de nuages noirs et de rafales mugissantes encercle le sommet de la tour.",
+        "back_text": "La porte menant à la Tour de l'Abbaye est verrouillée. Vous ne pouvez pas entrer dans la Tour de l'Abbaye à moins que vous n'ayez « trouvé la clé de la tour »."
     },
     {
         "code": "03300",
-        "flavor": "When the tide is high, they emerge from the sea to feed.",
-        "name": "Tidal Terror",
-        "text": "<b>Spawn</b> - Porte de l'Avancée or Chapel of St. Aubert.\nChasseur.",
+        "flavor": "À marée haute, ces créatures surgissent de la mer pour se nourrir.",
+        "name": "Terreur des Marées",
+        "text": "<b>Génération</b> - Porte de l'Avancée ou Chapelle of Saint-Aubert.\nChasseur.",
         "traits": "Monstre."
     },
     {
         "code": "03301",
-        "name": "Rift Seeker",
-        "text": "<b>Forced</b> - After Rift Seeker attacks you: You must either take 1 additional damage and 1 additional horror, or place 1 doom on each agenda in play.\n[action] Place 1 doom on each agenda in play and take 2 horror: <b>Parley.</b> Discard Rift Seeker.",
+        "name": "Chercheur de Failles",
+        "text": "<b>Forcé</b> - Après que le Chercheur de Failles vous a attaqué : soit vous subbissez 1 dégât et 1 horreur supplémentaires, soit vous placez 1 fatalité sur chaque intrigue en jeu.\n[action] Placez 1 fatalité sur chaque intrigue en jeu et subissez 2 horreurs : <b>Discussion.</b> Défaussez le Chercheur de Failles.",
         "traits": "Monstre. Byakhee. Cultiste."
     },
     {
         "code": "03302",
-        "name": "Crashing Floods",
-        "text": "<b>Revelation</b> - Test [agility] (3). If you fail:\n- If agenda 1a is in play, take 1 damage and lose 1 action.\n- If agenda 2a is in play, take 2 damage and lose 2 actions.\n- If act 3a or agenda 3a is in play, take 3 damage and lose 3 actions.",
+        "name": "Trombes d'Eau",
+        "text": "<b>Révélation</b> - Effectuez un test de [agility] (3). En cas d'échec :\n- Si l'Intrigue 1a est en jeu, subissez 1 dégât et perdez 1 action.\n- Si l'Intrigue 2a est en jeu, subissez 2 dégâts et perdez 2 actions.\n- Si l'Acte 3a ou l'Intrigue 3a est en jeu, subissez 3 dégâts et perdez 3 actions.",
         "traits": "Présage."
     },
     {
         "code": "03303",
-        "name": "Worlds Merge",
-        "text": "<b>Revelation</b> - Test [willpower] (3). If you fail:\n- If agenda 1c is in play, take 1 horror and discard 1 card from your hand.\n- If agenda 2c is in play, take 2 horror and discard 2 cards from your hand.\n- If act 3c or agenda 3c is in play, take 3 horror and discard 3 cards from your hand.",
+        "name": "Fusion des Mondes",
+        "text": "<b>Révélation</b> - Effectuez un test de  [willpower] (3). En cas d'échec :\n- Si l'Intrigue 1c est en jeu, subissez 1 horreur et défaussez 1 carte de votre main.\n- Si l'Intrigue 2c est en jeu, subissez 2 horreurs et défaussez s cartes de votre main.\n- Si l'Acte 3c ou l'Intrigue 3c est en jeu, subissez 3 horreurs et défaussez 3 cartes de votre main.",
         "traits": "Présage."
     }
 ]
