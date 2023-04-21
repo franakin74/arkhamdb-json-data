@@ -237,7 +237,7 @@
     {
         "code": "03303",
         "name": "Fusion des Mondes",
-        "text": "<b>Révélation</b> - Effectuez un test de  [willpower] (3). En cas d'échec :\n- Si l'Intrigue 1c est en jeu, subissez 1 horreur et défaussez 1 carte de votre main.\n- Si l'Intrigue c est en jeu, subissez 2 horreurs et défaussez s cartes de votre main.\n- Si l'Acte 3c ou l'Intrigue 3c est en jeu, subissez 3 horreurs et défaussez 3 cartes de votre main.",
+        "text": "<b>Révélation</b> - Effectuez un test de  [willpower] (3). En cas d'échec :\n- Si l'Intrigue 1c est en jeu, subissez 1 horreur et défaussez 1 carte de votre main.\n- Si l'Intrigue c est en jeu, subissez 2 horreurs et défaussez 2 cartes de votre main.\n- Si l'Acte 3c ou l'Intrigue 3c est en jeu, subissez 3 horreurs et défaussez 3 cartes de votre main.",
         "traits": "Présage."
     }
 ]
